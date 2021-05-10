@@ -1,6 +1,6 @@
-let num1= prompt("Enter 1st Number");
-let num2=prompt("Enter 2nd Number");
-let num3=prompt("Enter 3rd Number");
+let num1=parseInt(prompt("Enter 1st Number"));
+let num2=parseInt(prompt("Enter 2nd Number"));
+let num3=parseInt(prompt("Enter 3rd Number"));
 
 let large;
 
